@@ -1,3 +1,3 @@
-# IMT542 I3 Assigmnet
+# IMT542 Portable Information Structure I3 Assigmnet
 
 ## Overview
