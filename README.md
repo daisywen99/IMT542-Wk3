@@ -13,7 +13,7 @@ This simple project uses a movie dataset to visualize movie ratings, genres, and
 - Analyze Overall Movie Rating Distribution
 
 ## How to Run
-1. Open `movie_app_visualization.ipynb` in Google Colab.
+1. Open `Daisy_I3.ipynb` in Google Colab.
 2. Upload the provided movie dataset CSV.
 3. Run all the code cells to generate charts and summaries.
 
